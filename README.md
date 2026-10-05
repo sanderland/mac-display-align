@@ -12,6 +12,8 @@ To build from source, run `./build.sh`. The app lands in `dist/`.
 
 ## Use
 
+![Click matching points on both displays, then fine-tune with Up/Down](docs/usage.png)
+
 1. Click a point on the edge of one display (e.g. a ruler mark or a window corner). A line and dot appear.
 2. Click the point next to it on the neighbouring display.
 3. Up/Down move the line on the first display (Shift = 10 px) until both lines meet across the bezel.
